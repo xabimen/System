@@ -1,0 +1,6 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =4
+let g:netrw_dirhist_1='/Users/xabimen/Desktop/pibilliands'
+let g:netrw_dirhist_2='/Volumes/XABIMEN_PEN/Master/CG/DPD/exer3'
+let g:netrw_dirhist_3='/Volumes/XABIMEN_PEN/Master/TFM2/program/input_files'
+let g:netrw_dirhist_4='/Volumes/XABIMEN_PEN/Master/TFM2/program/output_files'
